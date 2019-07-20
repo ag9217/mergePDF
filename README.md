@@ -1,2 +1,5 @@
 # mergePDF
-Python script to merge PDFs
+## Usage
+```
+python mergePDF.py pdfdir1 pdfdir2 .....
+```
