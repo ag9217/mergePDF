@@ -1,5 +1,5 @@
 # mergePDF
-I was tired of uploading all the PDFs I want to combine to a random website, so I created this simple script.
+I had security concerns regarding uploading all the PDFs I want to combine to a random website, so I created this simple script.
 ## Usage
 The pdfs are combined in alphabetical order.
 ```
